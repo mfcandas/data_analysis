@@ -1,0 +1,13 @@
+name: network
+dependencies:
+- scipy
+- matplotlib
+- networkx
+- numpy
+- pandas
+- pip
+- python=3.5.1
+- pip:
+  - hiveplot
+  - circos
+- jupyter
